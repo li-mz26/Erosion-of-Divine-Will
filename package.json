@@ -1,0 +1,9 @@
+{
+  "name": "erosion-of-divine-will",
+  "version": "0.1.0",
+  "private": true,
+  "description": "新三国主题卡牌微信小游戏初始化项目",
+  "scripts": {
+    "check": "node --check game.js && node --check src/core/game-state.js && node --check src/ui/render.js"
+  }
+}
