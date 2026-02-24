@@ -1,0 +1,25 @@
+{
+  "description": "新三国卡牌微信小游戏原型",
+  "projectname": "erosion-of-divine-will",
+  "appid": "touristappid",
+  "compileType": "game",
+  "libVersion": "3.2.4",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "es6": true,
+    "minified": true,
+    "enhance": true,
+    "urlCheck": false,
+    "coverView": true,
+    "postcss": true,
+    "compileHotReLoad": true
+  },
+  "condition": {
+    "game": {
+      "current": -1,
+      "list": []
+    }
+  }
+}
